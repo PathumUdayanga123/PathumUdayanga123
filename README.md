@@ -83,7 +83,7 @@ const developer = {
 ## Visitor Count 👀
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/PathumUdayanga123/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/PathumUdayanga123/count.svg" width="450" height="auto" alt="Visitor Count" />
 </div>
 
 <!-- Snake Animation -->
