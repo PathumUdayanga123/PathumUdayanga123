@@ -6,14 +6,14 @@
 
 ## About Me ✨
 ```javascript
-const developer = {
+
   name: "Pathum Udayanga",
   role: "Full Stack Developer",
   languages: ["Java", "React", "JavaScript", "Python", "PHP", "C#", "HTML/CSS"],
   tools: ["Spring Boot", "VS Code", "Visual Studio", "MySQL", "Git"],
   currentlyLearning: ["Java(Spring Boot)", "React + Vite", "MySQL"],
   funFact: "I love to code with a cup of coffee by my side!"
-};
+
 ```
 
 <div align="center">
