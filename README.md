@@ -1,28 +1,21 @@
-# Hi there, I'm Pathum Udayanga 👋
-
+Hi there, I'm Pathum Udayanga 👋
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F742C5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
-
-## About Me ✨
-```javascript
-
+About Me ✨
+javascriptconst developerProfile = {
   name: "Pathum Udayanga",
   role: "Full Stack Developer",
   languages: ["Java", "React", "JavaScript", "Python", "PHP", "C#", "HTML/CSS"],
   tools: ["Spring Boot", "VS Code", "Visual Studio", "MySQL", "Git"],
   currentlyLearning: ["Java(Spring Boot)", "React + Vite", "MySQL"],
   funFact: "I love to code with a cup of coffee by my side!"
-
-```
-
+};
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PathumUdayanga123&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PathumUdayanga123&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PathumUdayanga123&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PathumUdayanga123&theme=radical" alt="GitHub Streak" />
 </div>
-
-## My Skills 🚀
-
+My Skills 🚀
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -36,38 +29,28 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
-
-## My Projects 🔭
-
+My Projects 🔭
 <div align="center">
   <a href="https://github.com/PathumUdayanga123/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PathumUdayanga123&repo=project-1&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PathumUdayanga123&repo=project-1&theme=radical" />
   </a>
   <a href="https://github.com/PathumUdayanga123/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PathumUdayanga123&repo=project-2&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PathumUdayanga123&repo=project-2&theme=radical" />
   </a>
 </div>
-
-## GitHub Activity Graph 📊
-
+GitHub Activity Graph 📊
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PathumUdayanga123&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PathumUdayanga123&theme=synthwave" alt="GitHub Activity Graph" />
 </div>
-
-## Top Languages 📊
-
+Top Languages 📊
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PathumUdayanga123&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PathumUdayanga123&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
-## GitHub Trophies 🏆
-
+GitHub Trophies 🏆
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PathumUdayanga123&theme=nord&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PathumUdayanga123&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
-
-## Connect With Me 🌐
-
+Connect With Me 🌐
 <div align="center">
   <a href="https://www.linkedin.com/in/pathum-udayanga-6740b41a6/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -79,21 +62,15 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
-## Visitor Count 👀
-
+Visitor Count 👀
 <div align="center">
   <img src="https://profile-counter.glitch.me/PathumUdayanga123/count.svg" width="450" height="auto" alt="Visitor Count" />
 </div>
-
 <!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PathumUdayanga123/PathumUdayanga123/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PathumUdayanga123/PathumUdayanga123/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PathumUdayanga123/PathumUdayanga123/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PathumUdayanga123/PathumUdayanga123/output/github-contribution-grid-snake-dark.svg">
 </picture>
-
----
 
 <div align="center">
   <i>⭐️ From <a href="https://github.com/PathumUdayanga123">Pathum Udayanga</a></i>
